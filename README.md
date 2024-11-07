@@ -15,7 +15,3 @@ I'm a Junior Full Stack Developer in training, currently studying and learning a
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomeneguzzo&layout=compact&theme=radical)
 
-##🐍
-
-![GitHub Snake Game](https://github.com/sergiomeneguzzo/sergiomeneguzz/raw/main/github-user-contribution.svg)
-
