@@ -31,13 +31,13 @@
 ###
 
 <div align="left">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sergio-meneguzzo/)" target="_blank">
+  <a href="https://www.linkedin.com/in/sergio-meneguzzo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo"  />
   </a>
 <a href="https://t.me/sergio_meneguzzo" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Telegram logo" />
 </a>
-  <a href="[YOUR_PORTFOLIO_URL](https://www.sergiomeneguzzo.it/)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio"  />
+    <a href="https://www.sergiomeneguzzo.it" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio logo" />
   </a>
 </div>
