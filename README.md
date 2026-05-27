@@ -1,4 +1,4 @@
-<p align="left">Full Stack Developer</strong> from Italy, passionate about crafting efficient and scalable software solutions. With a strong background in TypeScript ecosystems, I love solving complex problems and turning ideas into clean, functional code through continuous learning and hands-on development.</p>
+<p align="left"><strong>Full Stack Developer</strong> from Italy, passionate about crafting efficient and scalable software solutions. With a strong background in TypeScript ecosystems, I love solving complex problems and turning ideas into clean, functional code through continuous learning and hands-on development.</p>
 
 <h2 align="left">I code with</h2>
 
