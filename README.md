@@ -1,8 +1,8 @@
-<h1 align="left">Hello 👋 I'm Sergio</h1>
+<h1 align="left">Hello I'm Sergio</h1>
 
 ###
 
-<p align="left">I'm a Junior Full Stack Developer in training, currently studying and learning as much as I can. Passionate about the MEAN stack (MongoDB, Express, Angular, Node.js), and eager to improve my skills through hands-on projects and continuous learning.</p>
+<p align="left">I'm a <strong>Full Stack Developer</strong> from Italy, passionate about crafting efficient and scalable software solutions. With a strong background in TypeScript ecosystems, I love solving complex problems and turning ideas into clean, functional code through continuous learning and hands-on development.</p>
 
 <h2 align="left">I code with</h2>
 
